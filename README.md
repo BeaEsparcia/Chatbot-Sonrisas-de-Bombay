@@ -15,7 +15,7 @@
 * Conversation logs analysis for improving performance
 
 ## Preview
-![Chatbot Preview](imagen_chatbot_sonrisas.png)
+<img src="imagen_chatbot_sonrisas.png" width="400"/>
 
 ## How It Works
 1. The user interacts with the chatbot through a predefined flow.
