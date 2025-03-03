@@ -1,6 +1,6 @@
 # Chatbot Sonrisas de Bombay
 
-### Conversational AI chatbot designed to enhance user support and interactions for an NGO. Built with Dialogflow CX, optimized for intent recognition and response accuracy, and currently in the testing and refinement phase to further enhance performance.
+### This chatbot is designed to assist users with common inquiries related to the NGO’s online store, including payment methods, returns, and shipping costs. Additionally, it provides information about volunteer opportunities and donation options, ensuring that users can quickly and easily find the answers they need.
 
 ## Features
 * Built with Dialogflow CX
